@@ -1,3 +1,5 @@
+A fork of binhex/arch-int-openvpn that adds additional ovpn format capabilities when used with arch-qbittorrentvpn
+
 **Application**
 
 [OpenVPN](https://openvpn.net/)  
@@ -13,7 +15,7 @@ This is an intermediate Docker image which is used as a base image for other Doc
 
 **Usage**
 
-N/A, intermediate image used as a base for DelugeVPN and SABnzbdVPN.
+N/A, intermediate image used as a base for DelugeVPN, SABnzbdVPN, and QbittorrentVPN.
 
 **Access application**
 
@@ -27,7 +29,7 @@ N/A, intermediate image used as a base for DelugeVPN and SABnzbdVPN.
 
 N/A
 ___
-If you appreciate my work, then please consider buying me a beer  :D
+If you appreciate the work of binhex, then please consider buying him a beer  :D
 
 [![PayPal donation](https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MM5E27UX6AUU4)
 
